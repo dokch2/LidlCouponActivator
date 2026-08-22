@@ -1,0 +1,3 @@
+httpx>=0.27
+# opcjonalnie, tylko dla komendy `login`:
+# playwright>=1.44

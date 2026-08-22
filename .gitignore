@@ -1,0 +1,11 @@
+# token sesji - traktuj jak haslo
+cookies.txt
+cookies.json
+.env
+
+# zrzuty ekranu z logowania zawieraja adres e-mail konta
+login_error.png
+*.png
+
+__pycache__/
+*.pyc
